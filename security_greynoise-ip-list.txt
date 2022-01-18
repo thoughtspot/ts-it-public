@@ -1,1 +1,5 @@
-1.2.3.4/32
+192.168.20.10/32
+	2001:db8:123:1::1 #test IPv6 address
+	192.168.20.0/24 ; test internal subnet
+	2001:db8:123:1::/64 test internal IPv6 range
+	192.168.20.40-192.168.20.50
