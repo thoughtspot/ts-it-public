@@ -4,3 +4,4 @@ thougtspot.com/          #SCTASK0012675 #Added on 202309
 mail.thougtspot.com/     #SCTASK0012675 #Added on 202309
 thoughspot.com/          #SCTASK0012675 #Added on 202309
 thoughtpsot.int/          #SCTASK0012675 #Added on 202309
+*.corp.thoughspot.com/    #SCTASK0012675 #Added on 202309
