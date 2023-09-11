@@ -1,1 +1,6 @@
-thoughtpsot.okta.com/
+thoughtpsot.okta.com/  #SCTASK0012675 #Added on 202309
+thoughtpsot.com/        #SCTASK0012675 #Added on 202309
+thougtspot.com/          #SCTASK0012675 #Added on 202309
+mail.thougtspot.com/     #SCTASK0012675 #Added on 202309
+thoughspot.com/          #SCTASK0012675 #Added on 202309
+thoughtpsot.int/          #SCTASK0012675 #Added on 202309
