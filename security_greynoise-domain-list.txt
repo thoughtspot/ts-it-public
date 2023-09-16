@@ -72,5 +72,5 @@ mxo4bkqvdityebzvp.xyz	#SCTASK0010155 ; Added on 202215
 pixel.konnektu.ru	#SCTASK0010155 ; Added on 202215
 thement-hotmling.xyz	#SCTASK0010155 ; Added on 202215
 cws-edi.com   #SCTASK0010229 ; Added on 202219
-thoughtpsot.okta.com #     ; Added on 202309
-
+thoughtpsot.okta.com #SCTASK0012675 ; Added on 202309
+savagelylizard.com #INC0014161 ; Added on 202309
