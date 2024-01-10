@@ -77,3 +77,11 @@ savagelylizard.com #INC0014161 ; Added on 202309
 *.page.link/ #INC0014304 ; Added on 202309
 mega.io #INC0014854 ; Added on 202311
 mega.co.nz #INC0014854 ; Added on 202311
+thoughtspots.com #INC0015567 ; Added on 202401
+thoughtspod.com #INC0015567 ; Added on 202401
+thought-spot.com #INC0015567 ; Added on 202401
+thoughspot.com #INC0015567 ; Added on 202401
+thoughtpot.com #INC0015567 ; Added on 202401
+thoughtsspot.com #INC0015567 ; Added on 202401
+thoughtslot.com #INC0015567 ; Added on 202401
+thoug.htspot.com #INC0015567 ; Added on 202401
