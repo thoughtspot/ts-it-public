@@ -1,0 +1,6 @@
+# https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/
+
+#——————————————————#
+#IP addresses and domains for Atlassian cloud products
+#——————————————————#
+73.202.28.182/32
