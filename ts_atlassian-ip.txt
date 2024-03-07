@@ -6,7 +6,7 @@
 #——————————————————#
 73.202.28.182/32 ; Pravin - TBD after 2024-04-01
 31.94.14.246/32 ; Adil - TBD after 2024-04-01
-117.98.199.173/32 ; Yadvendu - TBD after 2024-04-01
+
 
 #——————————————————#
 #IP addresses and domains for Atlassian cloud products
