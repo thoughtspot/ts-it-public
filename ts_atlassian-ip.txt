@@ -1,14 +1,5 @@
 # https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/
 
-
-#——————————————————#
-#Testing IPs
-#——————————————————#
-73.202.28.182/32 ; Pravin - TBD after 2024-04-01
-31.94.14.246/32 ; Adil - TBD after 2024-04-01
-122.172.85.80/32 ; Sahithya 
-
-
 #——————————————————#
 #IP addresses and domains for Atlassian cloud products
 #——————————————————#
@@ -91,14 +82,3 @@
 2a05:d014:f99:dd06::/64 ; Added on 2024-02-21
 2a05:d018:34d:5804::/63 ; Added on 2024-02-21
 2a05:d018:34d:5806::/64 ; Added on 2024-02-21
-
-
-#——————————————————#
-#DigiCert IPs
-#——————————————————#
-
-192.229.211.108/32
-192.229.221.95/32
-152.195.38.76/32
-192.16.49.85/32
-
