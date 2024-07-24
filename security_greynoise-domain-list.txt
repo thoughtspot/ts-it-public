@@ -1,87 +1,87 @@
 ^cws-edi.com 
-matomo.erlyvideo.ru/ #INC0010504 ; Added on 202212
-sug.searchsafe.club/ #INC0010504 ; Added on 202212
-101101.ru/ #INC0010504 ; Added on 202212
-aflink.ru/ #INC0010504 ; Added on 202212
-backend.svcenter.xyz/ #INC0010504 ; Added on 202212
-bs-metadsp.yandex.ru/ #INC0010504 ; Added on 202212
-cc.bunnycdnn.ru/ #INC0010504 ; Added on 202212
-counter.yadro.ru/ #INC0010504 ; Added on 202212
-dd197.poiuyarrrtz.xyz/ #INC0010504 ; Added on 202212
-e210127.getprize.top/ #INC0010504 ; Added on 202212
-img.bunnycdnn.ru/ #INC0010504 ; Added on 202212
-slive.webhockey.xyz/ #INC0010504 ; Added on 202212
-updatepopcorntime.xyz/ #INC0010504 ; Added on 202212
-ad.adriver.ru/ #INC0010504 ; Added on 202212
-adx.com.ru/ #INC0010504 ; Added on 202212
-api-maps.yandex.ru/ #INC0010504 ; Added on 202212
-balance.segmento.ru/ #INC0010504 ; Added on 202212
-between-sync.rutarget.ru/ #INC0010504 ; Added on 202212
-cdn.mr-prod.xyz/ #INC0010504 ; Added on 202212
-connect.ok.ru/ #INC0010504 ; Added on 202212
-dmg.digitaltarget.ru/ #INC0010504 ; Added on 202212
-dmp.redllama.ru/ #INC0010504 ; Added on 202212
-experience.tripster.ru/ #INC0010504 ; Added on 202212
-howtoprogram.xyz/ #INC0010504 ; Added on 202212
-login.aliexpress.ru/ #INC0010504 ; Added on 202212
-mh.hotnewsmm.xyz/ #INC0010504 ; Added on 202212
-refpamjeql.top/ #INC0010504 ; Added on 202212
-ssp-rtb.sape.ru/ #INC0010504 ; Added on 202212
-ssp.adriver.ru/ #INC0010504 ; Added on 202212
-watch-online.49n7wqynho5u.top/ #INC0010504 ; Added on 202212
-www.jabra.ru/ #INC0010504 ; Added on 202212
-dmp.vihub.ru	#SCTASK0010155 ; Added on 202215
-11--d6003d36-cef8-54d9-9c26-be13feca7514.ifa.adx.com.ru	#SCTASK0010155 ; Added on 202215
-code.directadvert.ru	#SCTASK0010155 ; Added on 202215
-tech.rtb.mts.ru	#SCTASK0010155 ; Added on 202215
-sync.opendsp.ru	#SCTASK0010155 ; Added on 202215
-www.tns-counter.ru	#SCTASK0010155 ; Added on 202215
-csync.loopme.me	#SCTASK0010155 ; Added on 202215
-ads.adfox.ru	#SCTASK0010155 ; Added on 202215
-mail.ru	#SCTASK0010155 ; Added on 202215
-bar.love.mail.ru	#SCTASK0010155 ; Added on 202215
-bs-metadsp.yandex.ru	#SCTASK0010155 ; Added on 202215
-bs.yandex.ru	#SCTASK0010155 ; Added on 202215
-counter.yadro.ru	#SCTASK0010155 ; Added on 202215
-imgsmail.ru	#SCTASK0010155 ; Added on 202215
-home.imgsmail.ru	#SCTASK0010155 ; Added on 202215
-myoplay.club	#SCTASK0010155 ; Added on 202215
-octafx.xzu50sv9y3ww.top	#SCTASK0010155 ; Added on 202215
-ok.ru	#SCTASK0010155 ; Added on 202215
-bestcontentindustry.top	#SCTASK0010155 ; Added on 202215
-pushpad.xyz	#SCTASK0010155 ; Added on 202215
-redis-end.tfla.xyz	#SCTASK0010155 ; Added on 202215
-sdprsvbnj.xyz	#SCTASK0010155 ; Added on 202215
-stag-core.tfla.xyz	#SCTASK0010155 ; Added on 202215
-uehawe.xyz	#SCTASK0010155 ; Added on 202215
-yandex.ru	#SCTASK0010155 ; Added on 202215
-9deed7b3-5f0d-5452-80f4-eb63e37881e8-bw.ops.beeline.ru	#SCTASK0010155 ; Added on 202215
-ad.adriver.ru	#SCTASK0010155 ; Added on 202215
-ad.kissanime.com.ru	#SCTASK0010155 ; Added on 202215
-applytics.mxo4bkqvdityebzvp.xyz	#SCTASK0010155 ; Added on 202215
-bobo.muzlicdn.xyz	#SCTASK0010155 ; Added on 202215
-cc.bunnycdnn.ru	#SCTASK0010155 ; Added on 202215
-cdn.ostrovok.ru	#SCTASK0010155 ; Added on 202215
-cfb.rabbitloader.xyz	#SCTASK0010155 ; Added on 202215
-cl-747c2dd3.edgecdn.ru	#SCTASK0010155 ; Added on 202215
-embed.vodstream.xyz	#SCTASK0010155 ; Added on 202215
-img.bunnycdnn.ru	#SCTASK0010155 ; Added on 202215
-img.moviescdn.xyz	#SCTASK0010155 ; Added on 202215
-movies2watch.ru	#SCTASK0010155 ; Added on 202215
-mxo4bkqvdityebzvp.xyz	#SCTASK0010155 ; Added on 202215
-pixel.konnektu.ru	#SCTASK0010155 ; Added on 202215
-thement-hotmling.xyz	#SCTASK0010155 ; Added on 202215
-cws-edi.com   #SCTASK0010229 ; Added on 202219
-thoughtpsot.okta.com #SCTASK0012675 ; Added on 202309
-savagelylizard.com #INC0014161 ; Added on 202309
-*.page.link/ #INC0014304 ; Added on 202309
-mega.io #INC0014854 ; Added on 202311
-mega.co.nz #INC0014854 ; Added on 202311
-thoughtspots.com #INC0015567 ; Added on 202401
-thoughtspod.com #INC0015567 ; Added on 202401
-thought-spot.com #INC0015567 ; Added on 202401
-thoughspot.com #INC0015567 ; Added on 202401
-thoughtpot.com #INC0015567 ; Added on 202401
-thoughtsspot.com #INC0015567 ; Added on 202401
-thoughtslot.com #INC0015567 ; Added on 202401
-thoug.htspot.com #INC0015567 ; Added on 202401
+matomo.erlyvideo.ru/                                     # INC0010504 ; Added on 202212
+sug.searchsafe.club/                                     # INC0010504 ; Added on 202212
+101101.ru/                                               # INC0010504 ; Added on 202212
+aflink.ru/                                               # INC0010504 ; Added on 202212
+backend.svcenter.xyz/                                    # INC0010504 ; Added on 202212
+bs-metadsp.yandex.ru/                                    # INC0010504 ; Added on 202212
+cc.bunnycdnn.ru/                                         # INC0010504 ; Added on 202212
+counter.yadro.ru/                                        # INC0010504 ; Added on 202212
+dd197.poiuyarrrtz.xyz/                                   # INC0010504 ; Added on 202212
+e210127.getprize.top/                                    # INC0010504 ; Added on 202212
+img.bunnycdnn.ru/                                        # INC0010504 ; Added on 202212
+slive.webhockey.xyz/                                     # INC0010504 ; Added on 202212
+updatepopcorntime.xyz/                                   # INC0010504 ; Added on 202212
+ad.adriver.ru/                                           # INC0010504 ; Added on 202212
+adx.com.ru/                                              # INC0010504 ; Added on 202212
+api-maps.yandex.ru/                                      # INC0010504 ; Added on 202212
+balance.segmento.ru/                                     # INC0010504 ; Added on 202212
+between-sync.rutarget.ru/                                # INC0010504 ; Added on 202212
+cdn.mr-prod.xyz/                                         # INC0010504 ; Added on 202212
+connect.ok.ru/                                           # INC0010504 ; Added on 202212
+dmg.digitaltarget.ru/                                    # INC0010504 ; Added on 202212
+dmp.redllama.ru/                                         # INC0010504 ; Added on 202212
+experience.tripster.ru/                                  # INC0010504 ; Added on 202212
+howtoprogram.xyz/                                        # INC0010504 ; Added on 202212
+login.aliexpress.ru/                                     # INC0010504 ; Added on 202212
+mh.hotnewsmm.xyz/                                        # INC0010504 ; Added on 202212
+refpamjeql.top/                                          # INC0010504 ; Added on 202212
+ssp-rtb.sape.ru/                                         # INC0010504 ; Added on 202212
+ssp.adriver.ru/                                          # INC0010504 ; Added on 202212
+watch-online.49n7wqynho5u.top/                           # INC0010504 ; Added on 202212
+www.jabra.ru/                                            # INC0010504 ; Added on 202212
+dmp.vihub.ru                                             # SCTASK0010155 ; Added on 202215
+11--d6003d36-cef8-54d9-9c26-be13feca7514.ifa.adx.com.ru  # SCTASK0010155 ; Added on 202215
+code.directadvert.ru                                     # SCTASK0010155 ; Added on 202215
+tech.rtb.mts.ru                                          # SCTASK0010155 ; Added on 202215
+sync.opendsp.ru                                          # SCTASK0010155 ; Added on 202215
+www.tns-counter.ru                                       # SCTASK0010155 ; Added on 202215
+csync.loopme.me                                          # SCTASK0010155 ; Added on 202215
+ads.adfox.ru                                             # SCTASK0010155 ; Added on 202215
+mail.ru                                                  # SCTASK0010155 ; Added on 202215
+bar.love.mail.ru                                         # SCTASK0010155 ; Added on 202215
+bs-metadsp.yandex.ru                                     # SCTASK0010155 ; Added on 202215
+bs.yandex.ru                                             # SCTASK0010155 ; Added on 202215
+counter.yadro.ru                                         # SCTASK0010155 ; Added on 202215
+imgsmail.ru                                              # SCTASK0010155 ; Added on 202215
+home.imgsmail.ru                                         # SCTASK0010155 ; Added on 202215
+myoplay.club                                             # SCTASK0010155 ; Added on 202215
+octafx.xzu50sv9y3ww.top                                  # SCTASK0010155 ; Added on 202215
+ok.ru                                                    # SCTASK0010155 ; Added on 202215
+bestcontentindustry.top                                  # SCTASK0010155 ; Added on 202215
+pushpad.xyz                                              # SCTASK0010155 ; Added on 202215
+redis-end.tfla.xyz                                       # SCTASK0010155 ; Added on 202215
+sdprsvbnj.xyz                                            # SCTASK0010155 ; Added on 202215
+stag-core.tfla.xyz                                       # SCTASK0010155 ; Added on 202215
+uehawe.xyz                                               # SCTASK0010155 ; Added on 202215
+yandex.ru                                                # SCTASK0010155 ; Added on 202215
+9deed7b3-5f0d-5452-80f4-eb63e37881e8-bw.ops.beeline.ru   # SCTASK0010155 ; Added on 202215
+ad.adriver.ru                                            # SCTASK0010155 ; Added on 202215
+ad.kissanime.com.ru                                      # SCTASK0010155 ; Added on 202215
+applytics.mxo4bkqvdityebzvp.xyz                          # SCTASK0010155 ; Added on 202215
+bobo.muzlicdn.xyz                                        # SCTASK0010155 ; Added on 202215
+cc.bunnycdnn.ru                                          # SCTASK0010155 ; Added on 202215
+cdn.ostrovok.ru                                          # SCTASK0010155 ; Added on 202215
+cfb.rabbitloader.xyz                                     # SCTASK0010155 ; Added on 202215
+cl-747c2dd3.edgecdn.ru                                   # SCTASK0010155 ; Added on 202215
+embed.vodstream.xyz                                      # SCTASK0010155 ; Added on 202215
+img.bunnycdnn.ru                                         # SCTASK0010155 ; Added on 202215
+img.moviescdn.xyz                                        # SCTASK0010155 ; Added on 202215
+movies2watch.ru                                          # SCTASK0010155 ; Added on 202215
+mxo4bkqvdityebzvp.xyz                                    # SCTASK0010155 ; Added on 202215
+pixel.konnektu.ru                                        # SCTASK0010155 ; Added on 202215
+thement-hotmling.xyz                                     # SCTASK0010155 ; Added on 202215
+cws-edi.com                                              # SCTASK0010229 ; Added on 202219
+thoughtpsot.okta.com                                     # SCTASK0012675 ; Added on 202309
+savagelylizard.com                                       # INC0014161 ; Added on 202309
+*.page.link/                                             # INC0014304 ; Added on 202309
+mega.io                                                  # INC0014854 ; Added on 202311
+mega.co.nz                                               # INC0014854 ; Added on 202311
+thoughtspots.com                                         # INC0015567 ; Added on 202401
+thoughtspod.com                                          # INC0015567 ; Added on 202401
+thought-spot.com                                         # INC0015567 ; Added on 202401
+thoughspot.com                                           # INC0015567 ; Added on 202401
+thoughtpot.com                                           # INC0015567 ; Added on 202401
+thoughtsspot.com                                         # INC0015567 ; Added on 202401
+thoughtslot.com                                          # INC0015567 ; Added on 202401
+thoug.htspot.com                                         # INC0015567 ; Added on 202401

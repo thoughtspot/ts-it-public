@@ -1,9 +1,9 @@
-thoughtpsot.okta.com/  #SCTASK0012675 #Added on 202309
-thoughtpsot.com/        #SCTASK0012675 #Added on 202309
-thougtspot.com/          #SCTASK0012675 #Added on 202309
-mail.thougtspot.com/     #SCTASK0012675 #Added on 202309
-thoughspot.com/          #SCTASK0012675 #Added on 202309
-thoughtpsot.int/          #SCTASK0012675 #Added on 202309
-*.corp.thoughspot.com/    #SCTASK0012675 #Added on 202309
-ftp-nyc.osuosl.org/       #INC0018267 #Added on 202404
-ftp-chi.osuosl.org/        #INC0018267 #Added on 202404
+thoughtpsot.okta.com/   # SCTASK0012675 ; Added on 202309
+thoughtpsot.com/        # SCTASK0012675 ; Added on 202309
+thougtspot.com/         # SCTASK0012675 ; Added on 202309
+mail.thougtspot.com/    # SCTASK0012675 ; Added on 202309
+thoughspot.com/         # SCTASK0012675 ; Added on 202309
+thoughtpsot.int/        # SCTASK0012675 ; Added on 202309
+*.corp.thoughspot.com/  # SCTASK0012675 ; Added on 202309
+ftp-nyc.osuosl.org/     # INC0018267 ; Added on 202404
+ftp-chi.osuosl.org/     # INC0018267 ; Added on 202404
