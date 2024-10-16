@@ -1,3 +1,5 @@
+# https://raw.githubusercontent.com/thoughtspot/ts-it-public/refs/heads/main/ts_security_greynoise_ip.txt
+
 83.149.110.185/32           # ITS-16365 ; Added on 20220124
 199.249.230.172/32          # ITS-16365 ; Added on 20220124
 199.249.230.185/32          # ITS-16365 ; Added on 20220124

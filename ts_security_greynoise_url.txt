@@ -1,3 +1,5 @@
+# https://raw.githubusercontent.com/thoughtspot/ts-it-public/refs/heads/main/ts_security_greynoise_url.txt
+
 thoughtpsot.okta.com/   # SCTASK0012675 ; Added on 202309
 thoughtpsot.com/        # SCTASK0012675 ; Added on 202309
 thougtspot.com/         # SCTASK0012675 ; Added on 202309

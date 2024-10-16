@@ -1,3 +1,5 @@
+# https://raw.githubusercontent.com/thoughtspot/ts-it-public/refs/heads/main/ts_security_greynoise_domain.txt
+
 ^cws-edi.com 
 matomo.erlyvideo.ru/                                     # INC0010504 ; Added on 202212
 sug.searchsafe.club/                                     # INC0010504 ; Added on 202212
