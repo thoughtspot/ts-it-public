@@ -10,6 +10,7 @@ ad.adriver.ru/                                           #  INC0010504    ; Adde
 ad.kissanime.com.ru                                      #  SCTASK0010155 ; Added on 2022-01-05
 ads.adfox.ru                                             #  SCTASK0010155 ; Added on 2022-01-05
 adx.com.ru/                                              #  INC0010504    ; Added on 2022-01-02
+adware.android.imp                                       #  INC0021544    ; Added on 2024-01-29
 aflink.ru/                                               #  INC0010504    ; Added on 2022-01-02
 api-maps.yandex.ru/                                      #  INC0010504    ; Added on 2022-01-02
 applytics.mxo4bkqvdityebzvp.xyz                          #  SCTASK0010155 ; Added on 2022-01-05
