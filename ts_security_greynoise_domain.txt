@@ -85,6 +85,7 @@ thoughtsspot.com                                         #  INC0015567    ; Adde
 uehawe.xyz                                               #  SCTASK0010155 ; Added on 2022-01-05
 updatepopcorntime.xyz/                                   #  INC0010504    ; Added on 2022-01-02
 watch-online.49n7wqynho5u.top/                           #  INC0010504    ; Added on 2022-01-02
+webfonts.xserver.jp                                      #  INC0021544    ; Added on 2025-02-07
 www.jabra.ru/                                            #  INC0010504    ; Added on 2022-01-02
 www.tns-counter.ru                                       #  SCTASK0010155 ; Added on 2022-01-05
 yandex.ru                                                #  SCTASK0010155 ; Added on 2022-01-05
